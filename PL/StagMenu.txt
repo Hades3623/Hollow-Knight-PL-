@@ -12,5 +12,5 @@
 <entry name="BONE_FOREST">Las kości</entry>
 <entry name="CROSSROADS">Zapomniane Rozdroża</entry>
 <entry name="FUNGAL_WASTES">Stacja królowej&#39;</entry>
-<entry name="PALACE_GROUNDS">Teren Pałacu</entry>
+<entry name="PALACE_GROUNDS">Teren Pałacu</entry
 </entries>
