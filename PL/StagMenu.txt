@@ -1,16 +1,16 @@
 <entries>
 <entry name="CITY_OF_TEARS_1">Miejskie magazyny</entry>
 <entry name="DIRTMOUTH">Dirtmouth</entry>
-<entry name="DEEPNEST">Odległa wioska</entry>
-<entry name="KINGS_STATION">Stacja króla&#39;</entry>
+<entry name="DEEPNEST">Odlegla wioska</entry>
+<entry name="KINGS_STATION">Stacja krola&#39;</entry>
 <entry name="RESTING_GROUNDS">Tereny wypoczynkowe</entry>
 <entry name="HIDDEN_STATION">Ukryta Stacja</entry>
 <entry name="STAG_NEST">Jelenie gniazdo</entry>
-<entry name="ROYAL_GARDENS">Ogrody królowej&#39;</entry>
+<entry name="ROYAL_GARDENS">Ogrody krolowej&#39;</entry>
 <entry name="GREENPATH">Zielony szlak</entry>
 <entry name="STATIONS">Stacje</entry>
-<entry name="BONE_FOREST">Las kości</entry>
+<entry name="BONE_FOREST">Las kosci</entry>
 <entry name="CROSSROADS">Zapomniane Rozdroża</entry>
-<entry name="FUNGAL_WASTES">Stacja królowej&#39;</entry>
-<entry name="PALACE_GROUNDS">Teren Pałacu</entry>
+<entry name="FUNGAL_WASTES">Stacja krolowej&#39;</entry>
+<entry name="PALACE_GROUNDS">Teren Palacu</entry>
 </entries>

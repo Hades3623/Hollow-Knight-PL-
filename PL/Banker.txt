@@ -1,20 +1,20 @@
 <entries>
-<entry name="BANKER_CANCEL">Zmieniłeś zdanie? Cóż, wracaj w każdej chwili.</entry>
-<entry name="BANKER_FAREWELL">Zatem do widzenia. Uważaj na siebie.</entry>
+<entry name="BANKER_CANCEL">Zmieniłes zdanie? Coz, wracaj w kazdej chwili.</entry>
+<entry name="BANKER_FAREWELL">Zatem do widzenia. Uwazaj na siebie.</entry>
 <entry name="BANKER_DREAM_SPA">...Oohh nie... Zostaw mnie w spokoju, straszna mała rzecz...</entry>
 <entry name="BANKER_DEPOSIT">Dobra robota, kochanie! Będę pilnował twojego Geo. </entry>
-<entry name="BANKER_BALANCE_ZERO">Nic mi nie zostało... Przypuszczam, że możesz już iść? &lt;page&gt;Tak, myślę, że tak będzie najlepiej...</entry>
-<entry name="BANKER_GREET">Witaj kochanie! Masz ochotę na trochę bankowości?</entry>
-<entry name="BANKER_REMEET">Rozważyłeś otwarcie konta? Utrata Geo to straszna rzecz. &lt;page&gt;Będziesz o wiele bardziej pewny siebie tam w wielkim, niebezpiecznym świecie, wiedząc, że to jest bezpieczne.</entry>
-<entry name="BANKER_ACCT_OPEN">Jesteś mądry. Następnym razem, gdy jakaś straszna bestia cię dopadnie, będziesz zadowolony, wiedząc, że twój Geo jest bezpieczny w mojej skorupie, err... w moim skarbcu. &lt;page&gt;A teraz zróbmy trochę bankowości.</entry>
-<entry name="BANKER_SPA_GREET">Wah? Och... ty... wróciłeś. Myślałem, że kiedy wyszłeś, to był ostatni raz, kiedy cię... widziałem. &lt;page&gt;To tylko... twoja sprawa z Geo. Powinieneś wiedzieć, dla mnie również to był duży stres. Taki stres w rzeczywistości, że ja opuściłem bankowość na dobre.</entry>
-<entry name="BANKER_ACCT_DECLINE_AGAIN">Nadal nie jesteś zainteresowany? Jesteś zbyt niezdecydowany. Podejmuj odważne decyzje i podążaj za nimi, to jest właśnie sztuka, aby zobaczyć, jak Twoje Geo rośnie. </entry>
-<entry name="BANKER_MEET">Witaj, kochanie. Miałem zamiar zamknąć sklep i uciec, dopóki nie pojawiłeś się ty. Świadczę usługi bankowe, jeśli jesteś zainteresowany?. &lt;page&gt;Zgubienie Geo to straszna rzecz i jest to wiele bardziej prawdopodobne, jeśli nosisz je przy sobie. &lt;page&gt;Mój skarbiec jest o wiele bardziej bezpieczny. Przez cały mój czas pracy w banku, nigdy nie straciłem ani jednego Geo!  &lt;page&gt;Może rozważasz otwarcie konta?</entry>
-<entry name="BANKER_SPA_MEET">Oh...A-ah, witam ponownie D-Dearie. Miło, że wpadłem na ciebie tutaj. &lt;page&gt;Czy to twój Geo, którego szukasz? Widzisz, to jest... To smutna rzecz, ale... już jej nie ma. Wszystko wydane. &lt;page&gt;Koszty prowadzenia banku mogą być wysokie, więc musiałem obciążyć twoje konto nieco większą opłatą za obsługę. &lt;page&gt;Oczywiście całkowicie legalnie. Po prostu część całej transakcji bankowej...ah ha ha...ha.&lt;page&gt;Ale...ahh...dziękuję bardzo za wizytę u mnie, i biegnijcie teraz won. Jeśli pozwolisz mi na trochę prywatności, wkrótce skończę tutaj. Wtedy będziesz mógł mieć spa tylko dla siebie.</entry>
+<entry name="BANKER_BALANCE_ZERO">Nic mi nie zostało... Przypuszczam, ze mozesz juz isc? &lt;page&gt;Tak, myslę, ze tak będzie najlepiej...</entry>
+<entry name="BANKER_GREET">Witaj kochanie! Masz ochotę na trochę bankowosci?</entry>
+<entry name="BANKER_REMEET">Rozwazyłes otwarcie konta? Utrata Geo to straszna rzecz. &lt;page&gt;Będziesz o wiele bardziej pewny siebie tam w wielkim, niebezpiecznym swiecie, wiedzac, ze to jest bezpieczne.</entry>
+<entry name="BANKER_ACCT_OPEN">Jestes madry. Następnym razem, gdy jakas straszna bestia cię dopadnie, będziesz zadowolony, wiedzac, ze twoj Geo jest bezpieczny w mojej skorupie, err... w moim skarbcu. &lt;page&gt;A teraz zrobmy trochę bankowosci.</entry>
+<entry name="BANKER_SPA_GREET">Wah? Och... ty... wrociłes. Myslałem, ze kiedy wyszłes, to był ostatni raz, kiedy cię... widziałem. &lt;page&gt;To tylko... twoja sprawa z Geo. Powinienes wiedziec, dla mnie rowniez to był duzy stres. Taki stres w rzeczywistosci, ze ja opusciłem bankowosc na dobre.</entry>
+<entry name="BANKER_ACCT_DECLINE_AGAIN">Nadal nie jestes zainteresowany? Jestes zbyt niezdecydowany. Podejmuj odwazne decyzje i podazaj za nimi, to jest własnie sztuka, aby zobaczyc, jak Twoje Geo rosnie. </entry>
+<entry name="BANKER_MEET">Witaj, kochanie. Miałem zamiar zamknac sklep i uciec, dopoki nie pojawiłes się ty. swiadczę usługi bankowe, jesli jestes zainteresowany?. &lt;page&gt;Zgubienie Geo to straszna rzecz i jest to wiele bardziej prawdopodobne, jesli nosisz je przy sobie. &lt;page&gt;Moj skarbiec jest o wiele bardziej bezpieczny. Przez cały moj czas pracy w banku, nigdy nie straciłem ani jednego Geo!  &lt;page&gt;Moze rozwazasz otwarcie konta?</entry>
+<entry name="BANKER_SPA_MEET">Oh...A-ah, witam ponownie D-Dearie. Miło, ze wpadłem na ciebie tutaj. &lt;page&gt;Czy to twoj Geo, ktorego szukasz? Widzisz, to jest... To smutna rzecz, ale... juz jej nie ma. Wszystko wydane. &lt;page&gt;Koszty prowadzenia banku moga byc wysokie, więc musiałem obciazyc twoje konto nieco większa opłata za obsługę. &lt;page&gt;Oczywiscie całkowicie legalnie. Po prostu częsc całej transakcji bankowej...ah ha ha...ha.&lt;page&gt;Ale...ahh...dziękuję bardzo za wizytę u mnie, i biegnijcie teraz won. Jesli pozwolisz mi na trochę prywatnosci, wkrotce skonczę tutaj. Wtedy będziesz mogł miec spa tylko dla siebie.</entry>
 <entry name="BANKER_BALANCE_ZERO_REPEAT">...I think I might j-j-just rest right here a little while. Yes I think that would be best.</entry>
 <entry name="BANKER_ACCT_DECLINE">I understand. It&#39;s difficult to part with hard won Geo. I&#39;ll be here if you change your mind.</entry>
 <entry name="BANKER_ACCT_NOTENOUGH">Oh, hang on. You don&#39;t have enough Geo to buy an account, sadly. Once you&#39;ve collected 100 Geo, come straight back and we&#39;ll get your account opened up.</entry>
 <entry name="BANKER_WITHDRAW">Dzięki za wycofanie. Nie wydawaj wszystkiego naraz!</entry>
 <entry name="BANKER_SPA_REPEAT">...Bez urazy, dobrze?</entry>
-<entry name="BANKER_DREAM">...Kiedy znów powrócić do tego rozkosznego spa? ...Woda tak łagodzi napięcie w mojej skorupie...</entry>
+<entry name="BANKER_DREAM">...Kiedy znow powrocic do tego rozkosznego spa? ...Woda tak łagodzi napięcie w mojej skorupie...</entry>
 </entries>
