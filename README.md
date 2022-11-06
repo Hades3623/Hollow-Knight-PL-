@@ -6,6 +6,6 @@ Link: https://grajpopolsku.pl/forum/viewtopic.php?f=9&t=3135&p=38511#p38511
 
 
 
-[b]Chcesz poznać nasze inne projekty? Dołącz do naszego discorda![/b]
+Chcesz poznać nasze inne projekty? Dołącz do naszego discorda!
 
 Link: https://discord.gg/vSZzjJSVUD
